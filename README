@@ -1,0 +1,13 @@
+Required python packages
+pandas
+pysam
+
+
+HTT.gff
+HTT.ipynb
+HTT_full.gff
+HTT_region.txt
+SeqSpliceView.py
+analyze_splicing.sh
+count_exons.py
+count_exons.sh
